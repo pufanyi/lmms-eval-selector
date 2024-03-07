@@ -12,12 +12,52 @@
         "ID": "cmmmu"
     },
     {
+        "Name": "CMMMU Validation",
+        "ID": "cmmmu_val"
+    },
+    {
+        "Name": "CMMMU Test",
+        "ID": "cmmmu_test"
+    },
+    {
         "Name": "COCO Caption",
         "ID": "coco_cap"
     },
     {
+        "Name": "COCO 2014 Caption",
+        "ID": "coco2014_cap"
+    },
+    {
+        "Name": "COCO 2014 Caption Validation",
+        "ID": "coco2014_cap_val"
+    },
+    {
+        "Name": "COCO 2014 Caption Test",
+        "ID": "coco2014_cap_test"
+    },
+    {
+        "Name": "COCO 2017 Caption",
+        "ID": "coco2017_cap"
+    },
+    {
+        "Name": "COCO 2017 Caption MiniVal",
+        "ID": "coco2017_cap_val"
+    },
+    {
+        "Name": "COCO 2017 Caption MiniTest",
+        "ID": "coco2017_cap_test"
+    },
+    {
         "Name": "DOCVQA",
         "ID": "docvqa"
+    },
+    {
+        "Name": "DOCVQA Validation",
+        "ID": "docvqa_val"
+    },
+    {
+        "Name": "DOCVQA Test",
+        "ID": "docvqa_test"
     },
     {
         "Name": "Ferret",
@@ -26,6 +66,10 @@
     {
         "Name": "Flickr30K",
         "ID": "flickr30k"
+    },
+    {
+        "Name": "Ferret Test",
+        "ID": "ferret_test"
     },
     {
         "Name": "GQA",
@@ -40,6 +84,14 @@
         "ID": "info_vqa"
     },
     {
+        "Name": "Infographic VQA Validation",
+        "ID": "info_vqa_val"
+    },
+    {
+        "Name": "Infographic VQA Test",
+        "ID": "info_vqa_test"
+    },
+    {
         "Name": "LLaVA-Bench",
         "ID": "llava_bench_wild"
     },
@@ -52,8 +104,40 @@
         "ID": "mathvista"
     },
     {
+        "Name": "MathVista Validation",
+        "ID": "mathvista_testmini"
+    },
+    {
+        "Name": "MathVista Test",
+        "ID": "mathvista_test"
+    },
+    {
         "Name": "MMBench",
         "ID": "mmbench"
+    },
+    {
+        "Name": "MMBench English",
+        "ID": "mmbench_en"
+    },
+    {
+        "Name": "MMBench English Dev",
+        "ID": "mmbench_en_dev"
+    },
+    {
+        "Name": "MMBench English Test",
+        "ID": "mmbench_en_test"
+    },
+    {
+        "Name": "MMBench Chinese",
+        "ID": "mmbench_cn"
+    },
+    {
+        "Name": "MMBench Chinese Dev",
+        "ID": "mmbench_cn_dev"
+    },
+    {
+        "Name": "MMBench Chinese Test",
+        "ID": "mmbench_cn_test"
     },
     {
         "Name": "MME",
@@ -64,11 +148,27 @@
         "ID": "mmmu"
     },
     {
+        "Name": "MMMU Validation",
+        "ID": "mmmu_val"
+    },
+    {
+        "Name": "MMMU Test",
+        "ID": "mmmu_test"
+    },
+    {
         "Name": "MMVet",
         "ID": "mmvet"
     },
     {
         "Name": "Multi-DocVQA",
         "ID": "multidocvqa"
+    },
+    {
+        "Name": "Multi-DocVQA Validation",
+        "ID": "multidocvqa_val"
+    },
+    {
+        "Name": "Multi-DocVQA Test",
+        "ID": "multidocvqa_test"
     }
 ]
